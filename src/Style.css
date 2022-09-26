@@ -1,0 +1,16 @@
+.btn-scr{
+    position: fixed;
+    width: 11%;
+    left: 87%;
+    bottom: 42px;
+    height: 27px;
+    font-size: 1rem;
+    z-index: 1;
+    cursor: pointer;
+    color: green;
+}
+
+textarea{
+    width: 80%;
+    /* height: 200px; */
+}
